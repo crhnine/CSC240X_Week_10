@@ -1,0 +1,9 @@
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.pdb
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.pdb

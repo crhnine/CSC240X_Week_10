@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.pdb
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.pdb

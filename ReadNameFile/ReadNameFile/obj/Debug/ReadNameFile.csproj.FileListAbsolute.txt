@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\bin\Debug\ReadNameFile.pdb
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\ReadNameFile\ReadNameFile\obj\Debug\ReadNameFile.pdb

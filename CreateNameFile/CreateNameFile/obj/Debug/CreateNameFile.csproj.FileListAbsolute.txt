@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\bin\Debug\CreateNameFile.pdb
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\CreateNameFile\CreateNameFile\obj\Debug\CreateNameFile.pdb

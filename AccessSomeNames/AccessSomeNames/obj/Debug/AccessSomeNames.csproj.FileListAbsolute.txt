@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\bin\Debug\AccessSomeNames.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\bin\Debug\AccessSomeNames.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\bin\Debug\AccessSomeNames.pdb
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\obj\Debug\AccessSomeNames.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\obj\Debug\AccessSomeNames.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\obj\Debug\AccessSomeNames.exe
+C:\Users\chris\OneDrive\Desktop\Week 10 Assignments\AccessSomeNames\AccessSomeNames\obj\Debug\AccessSomeNames.pdb
